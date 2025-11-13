@@ -317,7 +317,7 @@ docker run -p 8090:8090 --env-file .env petmate-backend
 - `C`: 돌봄
 - `W`: 산책
 - `G`: 미용
-- `M`: 병원
+- `H`: 병원
 - `E`: 기타
 
 ### 예약 (Booking) - `/api/booking`

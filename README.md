@@ -96,7 +96,6 @@ PetMate는 반려동물을 위한 다양한 서비스(미용, 호텔, 병원 등
 
 ### External APIs
 - **Map Service**: Kakao Map API
-- **Business Verification**: 국세청 사업자 등록번호 조회 API
 
 ## 📁 프로젝트 구조
 
